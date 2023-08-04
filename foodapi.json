@@ -9,6 +9,7 @@
       "stock": 6,
       "reviews": 60,
       "star": 4.4,
+      "featured":true,
   
       "image": [
         {
@@ -233,6 +234,7 @@
       "stock": 6,
       "reviews": 60,
       "star": 4.4,
+       "featured":true,
   
       "image": [
         {
@@ -605,6 +607,7 @@
       "stock": 6,
       "reviews": 60,
       "star": 4.4,
+       "featured":true,
   
       "image": [
         {
@@ -788,6 +791,7 @@
       "stock": 6,
       "reviews": 60,
       "star": 4.4,
+       "featured":true,
       "image": [
         {
           "id": "picture",
